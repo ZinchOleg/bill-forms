@@ -26,7 +26,6 @@ function App() {
                 key={form.id}
                 form={form}
                 setForms={setForms}
-                setGeneralError={setGeneralError}
               />
             ))
           }
