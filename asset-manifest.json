@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bill-forms/static/css/main.e6c13ad2.css",
+    "main.js": "/bill-forms/static/js/main.c8a117f3.js",
+    "index.html": "/bill-forms/index.html",
+    "main.e6c13ad2.css.map": "/bill-forms/static/css/main.e6c13ad2.css.map",
+    "main.c8a117f3.js.map": "/bill-forms/static/js/main.c8a117f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c8a117f3.js"
+  ]
+}
